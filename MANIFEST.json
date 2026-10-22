@@ -1,0 +1,22 @@
+{
+  "publication": "authorized GitHub delivery",
+  "htmlBytes": 8190313,
+  "htmlSha256": "176155074bc0f8e33b8505c0d8b9c45f6ca6395dd034886477c2a67bf0e4f2fe",
+  "archives": [
+    {
+      "file": "MACAE-BEYOND-TV.zip",
+      "bytes": 6053815,
+      "sha256": "ce9c921030cebf7f6b60fd677f6834dba64179e40344e81c109569cfe7c9fdda",
+      "entries": 2,
+      "crc": "passed"
+    },
+    {
+      "file": "MACAE-BEYOND-PROJETO.zip",
+      "bytes": 37484503,
+      "sha256": "e96b1e0bd594c0fe5be0c714470cc4cb0d378357ba07dda4270ba3f2eb0a290b",
+      "entries": 141,
+      "crc": "passed"
+    }
+  ],
+  "branch": "entrega/macae-alem-da-linha-2026-10-22"
+}
