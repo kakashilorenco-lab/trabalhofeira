@@ -1,0 +1,22 @@
+{
+  "publication": "authorized GitHub delivery",
+  "htmlBytes": 8190778,
+  "htmlSha256": "d44b35d986ee12425eaafa7ca18627c0ee64a15b74474bd875b240350abfb352",
+  "archives": [
+    {
+      "file": "MACAE-TV-MOTION-CORRIGIDO.zip",
+      "bytes": 6054039,
+      "sha256": "ace44653d451607befc07858a393a15addd13847391717ec84b3517230663cd1",
+      "entries": 2,
+      "crc": "passed"
+    },
+    {
+      "file": "MACAE-PROJETO-MOTION-CORRIGIDO.zip",
+      "bytes": 38763096,
+      "sha256": "e003d889f9454abe8479a5f199e23ebf1b734ea8f08a96e309bda87d3f000e2a",
+      "entries": 156,
+      "crc": "passed"
+    }
+  ],
+  "branch": "entrega/macae-motion-corrigido-2026-10-22"
+}
